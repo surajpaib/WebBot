@@ -68,6 +68,6 @@ botui.message
 });
 
 var showEducation = function () {
-    botui.message.add({cssClass:'education', content:'Bachelor of Technology	Electronics and CommunicationsManipal Institute of Technology, Manipal University, 2012 - 2016	CGPA: 8.43. Obtained the SAGES scholarship with a rank of 640 in the Entrance exam and retained the scholarship for all 4 years of studySocieties and Activities : AIESEC Incoming Exchange CommitteeAIESEC Finance and Exchange Development TeamAIESEC Information Management TeamVolunteer Experience : Teaching Assistant at San Zhao Elementary School, Sichuan, ChinaVolunteered for a Cultural Exchange with Renmin University to promote community development. As a exchange volunteer, I was assigned the followingroles: Teaching assistant and course curator for a class of 50 children in the fifth grade. Course Curriculum Design Conducted classes for Basic communication skills in English, Inter-cultural awareness.'})
+    botui.message.add({cssClass:'education', content:''})
 
 };
